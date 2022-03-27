@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8a368dc9-b950-0f49-8583-d4b341b15524
 resourcetype: Document
 title: How to write a good review paper
 uid: b5c376a2-ed0d-f093-f4de-e04e4b1b7e8e
