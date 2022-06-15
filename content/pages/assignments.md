@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information about the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,11 +26,11 @@ Kim, J. -E., S. Li, T. GrandPré, D. Qiu, and S. M. Strittmatter. "Axon Regenera
 
 Zheng, B., C. Ho, S. Li, H. Keirstead, O. Steward, and M. Tessier-Lavigne. "Lack of Enhanced Spinal Regeneration in Nogo-Deficient Mice." _Neuron_ 38 (2003): 213-224.
 
-Please see "How to write a good review paper" ([PDF]({{< baseurl >}}/resources/how2writegoodrev))
+Please see "How to write a good review paper" ({{% resource_link b5c376a2-ed0d-f093-f4de-e04e4b1b7e8e "PDF" %}})
 
 Assignment 2
 ------------
 
 You will choose a research paper related to one of the topics we have discussed in class and present this work as a short 15-minute oral presentation. The presentation should include: (a) background information about the subject, (b) a brief statement about why the research is important, (c) a description of the key experiment, the important and control experiments, (d) results of the research, and (e) conclusions and possible future applications of the research. Presentations will be made and discussed during the last class on Ses #13.
 
-Please see "Assignment 2 Instructions" ([PDF]({{< baseurl >}}/resources/assignment2inst))
+Please see "Assignment 2 Instructions" ({{% resource_link bce48488-71ce-79c0-c9c4-97519715dec4 "PDF" %}})

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes summaries of each lecture along with the list of
+  background papers used by the instructor to prepare each lecture.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
