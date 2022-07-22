@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on prerequisites, format and aim, grading, the weekly assignment, and a calendar
+  of lecture topics and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 441089ee-0155-c018-8188-1f935f9319d5
 ---

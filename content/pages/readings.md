@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about readings for the course sessions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bfc536d8-cea5-b34f-dca4-0cbf1b9193f6
 ---
