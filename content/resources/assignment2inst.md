@@ -9,6 +9,7 @@ file: /courses/7-343-neuron-glial-cell-interactions-in-biology-and-disease-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Assignment 2 Instructions
 uid: bce48488-71ce-79c0-c9c4-97519715dec4
 ---
 Instructions for a research assignment and presentation. The presentation should include: (a) background information about the subject, (b) a brief statement about why the research is important, (c) a description of the key experiment, the important and control experiments, (d) results of the research, and (e) conclusions and possible future applications of the research.
-
